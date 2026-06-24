@@ -9,6 +9,6 @@ Este repositorio contiene el acceso al diseño y prototipo interactivo de la int
 
 | Versión | Fecha | Autor | Descripción del Cambio |
 | :--- | :--- | :--- | :--- |
-| **v1.0** | 18/06/2026 | Basthian Vernal | Inicialización del proyecto en Figma. Creación de las maquetas base (Pantalla de Login y Estructura Principal). |
+| **v1.0** | 18/06/2026 | Maximiliano Provoste | Inicialización del proyecto en Figma. Creación de las maquetas base (Pantalla de Login y Estructura Principal). |
 | **v1.1** | 20/06/2026 | Basthian Vernal | Aplicación de colores institucionales (#00B4D8 y #0B2545), redimensionamiento de logos y estandarización de componentes de UI. |
-| **v2.0** | 22/06/2026 | Basthian Vernal | Incorporación de las pantallas funcionales: "Buscar Paciente" (filtros de RUT y tabla de previsión) y "Módulo de Pagos". Conexión final de flujos interactivos.
+| **v2.0** | 22/06/2026 | Alonso Tapia | Incorporación de las pantallas funcionales: "Buscar Paciente" (filtros de RUT y tabla de previsión) y "Módulo de Pagos". Conexión final de flujos interactivos.

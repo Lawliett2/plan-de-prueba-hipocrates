@@ -3,7 +3,7 @@
 Este repositorio contiene el acceso al diseño y prototipo interactivo de la interfaz del sistema para el Centro Médico Hipócrates.
 
 ## Enlace al Prototipo en Figma
-👉 [Haz clic aquí para ver el prototipo en Figma](https://www.figma.com/proto/kbPzf7JAB0NTdOJGqx4T8T/Wireframes-Kit---Free-wireframing-Websites-and-SaaS-UI-UX--Community-?node-id=3102-1645&t=WC7Gbqu4E00xQt79-1)
+ [Haz clic aquí para ver el prototipo en Figma](https://www.figma.com/proto/kbPzf7JAB0NTdOJGqx4T8T/Wireframes-Kit---Free-wireframing-Websites-and-SaaS-UI-UX--Community-?node-id=3102-1645&t=WC7Gbqu4E00xQt79-1)
 
 ## Control de Cambios y Versiones del Prototipo
 
